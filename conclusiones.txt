@@ -1,0 +1,15 @@
+Conclusiones del proyecto
+
+El análisis de minería de datos permitió identificar patrones de compra en una base de 440 clientes mayoristas mediante el algoritmo K-Means.
+
+El modelo identificó tres grupos con características diferentes:
+
+Grupo 0: reúne 45 clientes que presentan compras destacadas en lácteos, abarrotes y detergentes.
+
+Grupo 1: reúne 393 clientes y representa la mayoría de los compradores, con niveles de compra más moderados.
+
+Grupo 2: reúne 2 clientes con compras muy elevadas en algunas categorías, especialmente productos congelados y delicatessen.
+
+Los resultados muestran que la minería de datos permite descubrir comportamientos que pueden ayudar a las empresas a conocer mejor a sus clientes, organizar estrategias comerciales y mejorar la toma de decisiones.
+
+Como limitación, el grupo de dos clientes es muy pequeño y requiere un análisis individual. Además, los resultados dependen de las variables y del algoritmo seleccionado.
